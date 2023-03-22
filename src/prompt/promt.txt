@@ -1,0 +1,13 @@
+1. show me an interesting exchange of this transcript, leave the conversation as it is originally
+    returns good results, conversations with an question and an answer
+    conversation is also consecutive
+    # need to test the consistency of answers
+
+2. show me the original text of one most interesting conversation of this podcast transcript.
+    does return original text
+    # it seems like it always return the conversation at the beginning
+
+3. show me an interesting exchange of this transcript, leave the conversation as it is originally and consecutively.
+    works on gpt4, consecutive, and original
+    # need to test consistency
+
